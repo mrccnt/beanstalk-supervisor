@@ -3,8 +3,7 @@
 This is an example of how to manage a job queue on a local virtual machine. The queue can handle jobs in the background,
 while web applications can continue their work without having the current user to wait for long blocking responses.
 
-Example would be to handle long person imports, doing some course-assignments using thousands of persons/courses or
-generating large system reports.
+Example would be to handle long person imports or generating large system reports.
 
 ## Prerequisits
 
